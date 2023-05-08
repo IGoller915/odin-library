@@ -1,0 +1,20 @@
+table, tr, th, td{
+    border: 1px solid black;
+    min-width: 10em
+}
+
+.add-button{
+    margin-bottom: 10px;
+}
+
+.book-form{
+    display: none;
+}
+
+.book-form{
+    margin: 10px;
+}
+
+form>input{
+    margin-right: 10px;
+}
